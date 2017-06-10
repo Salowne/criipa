@@ -5,7 +5,7 @@ __author__ = 'Zwdeff'
 __version__ = '0.1'
 __copyright__ = 'Copyright (c) 2017 @nZwdeff\n'# All Rights Reserved.
 
-# Github https://github.com/Xdwnff-04x/VPS-Config
+# Github https://github.com/Xdwnff-04x/criipa
 # este script gera numeros ips customizados.
 # para gerar uma escala de ip especifica defina no
 # numero maximo aonde ele tem que gerar .. Para travar um octeto
