@@ -19,7 +19,7 @@ from time import *
 
 v = version_info.major
 H = strftime('%d/%m/%Y %H:%M:%S')
-print ('Conectando .. via python%s /%s' % (v,H))
+print ('Connecting.. from python%s /%s' % (v,H))
 
 if version_info.major < 3:
    print ('\033[91mErro: Program made for python 3.\033[m')
