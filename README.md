@@ -56,7 +56,7 @@ At the beginning of the program.
 <b>Port for IPs :80/:8080 :: _<b/> <b>Generating IPs in file xxxxx.txt ..<b/>
 
 <b>159.203.44.162</b>
-<b>159.203.44.163 ..</b></td></b>
+<b>159.203.44.163 ..</b></td>
   </tr>
 </body>
 </html>
