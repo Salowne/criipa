@@ -37,7 +37,7 @@ This script generates IP numbers. To generate a specific IP range, set the maxim
     <td class="main3" width="890px">&#9733; <b>How to use:</b></td>
   </tr>
   <tr>
-    <td class="main"> <br>wget https://raw.githubusercontent.com/Xdwnff-04x/criipa/master/.criipar.py<br/> <br>chmod +x .ctiipar.py<br/> <br>python3 .ctiipar.py<br/> <b>Option 1 :<b/></td>
+    <td class="main"> <br>wget https://raw.githubusercontent.com/Xdwnff-04x/criipa/master/.criipar.py<br/> <br>chmod +x .criipar.py<br/> <br>python3 .criipar.py<br/> <b>Option 1 :<b/></td>
   </tr>
 </body>
 </html>
