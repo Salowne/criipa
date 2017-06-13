@@ -42,23 +42,21 @@ At the beginning of the program.
     <td class="main3" width="890px">&#9733; <b>Como usar:</b></td>
   </tr>
   <tr>
-    <td class="main"> <br>wget https://raw.githubusercontent.com/Xdwnff-04x/criipa/master/.criipar.py<br/> <br>chmod +x .ctiipar.py<br/> <br>python3 .ctiipar.py<br/> <b>Option 1 : Create a file ..
- Name for file :: _ archive
- IP octet 1. 1/255 :: _ 159
- IP octet 2. 0/255 :: _ 203
- IP octet 3. 0/255 :: _ 44
- IP octet 4. 0/255 :: _ 162
- Maximum octet number 1. 0/255 :: _ 159
- Maximum octet number 2. 0/255 :: _ 203
- Maximum octet number 3. 0/255 :: _ 44
- Maximum octet number 4. 0/255 :: _ 180
- Port for IPs :80/:8080 :: _
+    <td class="main"> <br>wget https://raw.githubusercontent.com/Xdwnff-04x/criipa/master/.criipar.py<br/> <br>chmod +x .ctiipar.py<br/> <br>python3 .ctiipar.py<br/> <b>Option 1 :<b/>
+<b>Create a file ..</b>
+<b>Name for file :: _ archive</b>
+<b>IP octet 1. 1/255 :: _ 159</b>
+<b>IP octet 2. 0/255 :: _ 203</b>
+<b>IP octet 3. 0/255 :: _ 44</b>
+<b>IP octet 4. 0/255 :: _ 162</b>
+<b>Maximum octet number 1. 0/255 :: _ 159</b>
+<b>Maximum octet number 2. 0/255 :: _ 203</b>
+<b>Maximum octet number 3. 0/255 :: _ 44</b>
+<b>Maximum octet number 4. 0/255 :: _ 180</b>
+<b>Port for IPs :80/:8080 :: _<b/> <b>Generating IPs in file xxxxx.txt ..<b/>
 
- Generating IPs in file xxxxx.txt ..
-
- 159.203.44.162
- 159.203.44.163 ..</td>
+<b>159.203.44.162</b>
+<b>159.203.44.163 ..</b></td></b>
   </tr>
 </body>
 </html>
-`
