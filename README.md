@@ -16,12 +16,7 @@
   </tr>
   <tr>
     <td class="main" width="890px"><p>
-This script generates custom ips numbers.
-To generate a specific IP range defined in
-Maximum number where it should generate .. To lock an octet
-Repeat the number at the maximum number.
-The generated IPs will be saved in the created file
-At the beginning of the program.
+This script generates IP numbers. To generate a specific IP range, set the maximum number to which it should generate. To block an octet Repeat the number to be blocked at the maximum number. The generated IPs are saved in the file created at the beginning of the program.
 <br />
     </table>
 
