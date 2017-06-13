@@ -27,7 +27,7 @@ This script generates IP numbers. To generate a specific IP range, set the maxim
   <tr>
     <td class="main">
       wget https://raw.githubusercontent.com/Xdwnff-04x/criipa/master/.criipar.py <br/>
-      Application: <br/>
+      requeriments: <br/>
       python3 : apt-get install python3<br/>
     </td>
 
