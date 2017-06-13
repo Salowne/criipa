@@ -32,7 +32,7 @@ At the beginning of the program.
   <tr>
     <td class="main">
       wget https://raw.githubusercontent.com/Xdwnff-04x/criipa/master/.criipar.py <br/>
-      Requerimento: <br/>
+      Application: <br/>
       python3 : apt-get install python3<br/>
     </td>
 
