@@ -11,7 +11,7 @@
 #  [copyright] Copyright © 2017 All Rights Reserved @nZwdeff
 #
 #  [Info]
-#    Github www.github.com/Xdwnff-04x/criipa ...
+#    Github https://github.com/GMagNLL/criipa ...
 #    This script generates IP numbers. To generate a specific IP range, set the ..
 #    maximum number to which it should generate. To block an octet Repeat the number ..
 #    to be blocked at the maximum number. The generated IPs are saved in the file created ..
@@ -66,7 +66,7 @@ print(n2+' %s\033[m' %(__Banner__))
 print(n2+' |--- :'+n7+' Author\033[32m  :\033[32m %s\033[m' %(__author__))
 print(n2+' |--- :'+n7+' Version\033[32m :\033[32m %s\033[m' %(__version__))
 print(n2+' |--- :'+n7+' Channel\033[32m :\033[32m AAAAAEANZwsT9F2Y-aBVIQ\033[m')
-print(n2+' |--- :'+n7+' Github\033[32m  :\033[32m www.github.com/Xdwnff-04x\033[m\n')
+print(n2+' |--- :'+n7+' Github\033[32m  :\033[32m https://github.com/GMagNLL\033[m\n')
 
 print(n2+'%s' %(__main__))
 
